@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html class="homePage">
+<head>
+	<!-- This is a comment! Text here will be ignored by the browser. -->
+	<meta charset="UTF-8">
+	<title>Atlas Schmutz ECS Portfolio</title>
+	<link rel="icon" type="image/x-icon" href="/images/basketball.gif">
+	<link href="myCSS.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="container">
+  <div class="header">
+  	<h1>Atlas ECS Portfolio</h1>
+  </div>
+  <div class="nav">
+    <h3> <a href="index.html">Home</a> | <a href="ecs/index.html">ECS</a> | <a href="Sports photography/index.html">sports photography</a></h3>
+  </div>
+  <div class="content">
+	  <img src="images/welcome.png" alt="Welcome" width="960" >
+  </div>
+  <div class="footer">
+    <h4> <a href="aboutme.html">About Me</a> | <a href="mailto:9685704@graniteschools.org">Contact</a> | Copyright 2021</h4>
+  </div>
+</div>
+</body>
+</html>
